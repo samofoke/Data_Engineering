@@ -27,3 +27,27 @@
      If the implementation is hard to explain, it's a bad idea.
      If the implementation is easy to explain, it may be a good idea.
      Namespaces are one honking great idea -- let's do more of those!
+
+#### Data types and operators
+  * Variables in pythong.
+    ~~~
+     x = 2
+     x = 3
+
+     this allows us to access variales using x or y in this case which holds values
+     2 and 3.
+    ~~~
+  * assignment operators in python.
+    ~~~
+    we have:
+    =      x = 2
+    -=     x -= 2 or x = x - 2
+    +=     x += 2 or x = x + 2
+    ~~~
+
+
+
+
+
+
+
