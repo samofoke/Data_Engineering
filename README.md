@@ -52,6 +52,15 @@
     we can try checking a type of a value by running:
     s = 4.5
     type(s)
+
+    we also look at logical operators:
+
+    and
+    or
+    not
+
+    touching on Strings:
+    Strings in Python are shown as the variable type str. You can define a string with either double quotes " or single quotes '. If the string you are creating actually has one of these two values in it, then you need to be careful to assure your code doesn't give an error. 
     ~~~
 
 
