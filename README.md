@@ -44,7 +44,15 @@
     -=     x -= 2 or x = x - 2
     +=     x += 2 or x = x + 2
     ~~~
+  * integers and floats
+    ~~~
+    x = int(3.0)
+    y = float(3)
 
+    we can try checking a type of a value by running:
+    s = 4.5
+    type(s)
+    ~~~
 
 
 
