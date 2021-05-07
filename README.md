@@ -62,6 +62,8 @@
     touching on Strings:
     Strings in Python are shown as the variable type str. You can define a string with either double quotes " or single quotes '. If the string you are creating actually has one of these two values in it, then you need to be careful to assure your code doesn't give an error.
     you can even add strings together by using operators.
+
+    A method in Python behaves similarly to a function. Methods actually are functions that are called using dot notation. For example, lower() is a string method that can be used like this, on a string called "sample string"
     ~~~
 
 
